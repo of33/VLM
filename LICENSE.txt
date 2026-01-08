@@ -1,0 +1,24 @@
+Copyright (c) 2026 Olaf Frommann
+All rights reserved.
+
+1. PERMISSION FOR DISTRIBUTION Redistribution and use of the original, unmodified ZIP archive in its entirety are permitted for non-commercial, educational, and research purposes, provided that this license file remains included.
+
+2. ATTRIBUTION AND CITATION Any publication of results, data, or software derived from the use of this source code or documentation must:
+
+    Clearly attribute the original work to the author: Olaf Frommann.
+
+    Include a reference to the original archive (including the official source and the SHA-256 checksum).
+
+3. DERIVATIVE WORKS AND MODIFICATIONS Modifications and the distribution of derivative works are permitted under the following conditions:
+
+    The derivative work must be clearly marked as a modified version.
+
+    The original, unmodified ZIP archive must be bundled with the derivative work or provided via a direct, persistent link.
+
+    The original author must be prominently credited.
+
+4. COMMERCIAL USE Commercial use of this software or results derived from it is permitted, provided that all conditions regarding attribution (Section 2) and the handling of derivative works (Section 3) are strictly followed.
+
+5. DISCLAIMER OF WARRANTY AND SUPPORT THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. NO TECHNICAL SUPPORT IS PROVIDED.
+
+OFFICIAL SHA-256 CHECKSUM FOR VERIFICATION: https://github.com/of33/VLM
