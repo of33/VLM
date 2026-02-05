@@ -3,7 +3,9 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: Frommann
     given-names: Olaf
-title: "Vortex-Lattice 3D Panel Method - Deep Documentation of a Teaching C++ Implementation"
-version: 1.0.0
-date-released: 2026-01-08
-url: "https://github.com/of33/VLM/tree/main"
+orcid: "https://orcid.org/0009-0004-2614-4392"
+title: "Vortex-Lattice Method (VLM) - Deep Documentation of a Teaching C++ Implementation"
+version: 1.1.0
+date-released: 2026-02-05
+doi: 10.5281/zenodo.18186231
+url: "https://github.com/of33/VLM"
